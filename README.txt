@@ -1,15 +1,8 @@
-´úÂë·ÖÎªÁ½²¿·Ö£º
-1. Orange CanÊÇÐ¡³ÌÐòÖ÷ÏîÄ¿£¬Ö±½ÓÊ¹ÓÃÎ¢ÐÅWeb¿ª·¢Õß¹¤¾ß´ò¿ª¼È¿ÉÔËÐÐ¡£
+ä»£ç åˆ†ä¸ºä¸¤éƒ¨åˆ†ï¼š
+1. Orange Canæ˜¯å°ç¨‹åºä¸»é¡¹ç›®ï¼Œç›´æŽ¥ä½¿ç”¨å¾®ä¿¡Webå¼€å‘è€…å·¥å…·æ‰“å¼€æ—¢å¯è¿è¡Œã€‚
 
-2. OrangeCanServerÊÇOrange CanÏîÄ¿ÖÐÎ¢ÐÅ¿ª·Å½Ó¿ÚÊÂÀýµÄ·þÎñ¶ËÅäÌ×PHP´úÂë£¬°üÀ¨Î¢ÐÅÖ§¸¶¡¢Î¢ÐÅÄ£°åÏûÏ¢¡¢Î¢ÐÅµÇÂ¼¡¢Î¢ÐÅÓÃ»§ÐÅÏ¢Ð£ÑéÓë»ñÈ¡¡£
+2. OrangeCanServeræ˜¯Orange Cané¡¹ç›®ä¸­å¾®ä¿¡å¼€æ”¾æŽ¥å£äº‹ä¾‹çš„æœåŠ¡ç«¯é…å¥—PHPä»£ç ï¼ŒåŒ…æ‹¬å¾®ä¿¡æ”¯ä»˜ã€å¾®ä¿¡æ¨¡æ¿æ¶ˆæ¯ã€å¾®ä¿¡ç™»å½•ã€å¾®ä¿¡ç”¨æˆ·ä¿¡æ¯æ ¡éªŒä¸ŽèŽ·å–ã€‚
 
-3. ¶ÔÓÚ·þÎñÆ÷PHP´úÂë£¬Çë×ÔÐÐÔÚ±¾µØ´î½¨Ò»¸ö¼òµ¥µÄPHP·þÎñÆ÷,²¢½«OrangeCanServerÔ´Âë·ÅÖÃÔÚÍøÕ¾¸ùÄ¿Â¼ÏÂ£¬²¢½«Ä¿Â¼ÖØÃüÃûÎªwxopen¼´¿É¡£
+3. å¯¹äºŽæœåŠ¡å™¨PHPä»£ç ï¼Œè¯·è‡ªè¡Œåœ¨æœ¬åœ°æ­å»ºä¸€ä¸ªç®€å•çš„PHPæœåŠ¡å™¨,å¹¶å°†OrangeCanServeræºç æ”¾ç½®åœ¨ç½‘ç«™æ ¹ç›®å½•ä¸‹ï¼Œå¹¶å°†ç›®å½•é‡å‘½åä¸ºwxopenå³å¯ã€‚
 
-Orange CanÏîÄ¿·ÃÎÊ±¾µØ·þÎñÆ÷µÄ»ùµØÖ·Îªlocalhost:8080/wxopen¡£
-
-
-±¾Ì×´úÂëÎªV1.0³õÊ¼´úÂë£¬ÔÚµ±Ç°Ð¡³ÌÐò×îÐÂ0.14.140900°æ±¾ÏÂ²âÊÔÍ¨¹ý
-
-»ñÈ¡×îÐÂ°æ±¾Ô´´úÂëÇë·ÃÎÊGitHub£º
-https://github.com/7insummer/orange-can
-https://github.com/7insummer/orange-can-server
+Orange Cané¡¹ç›®è®¿é—®æœ¬åœ°æœåŠ¡å™¨çš„åŸºåœ°å€ä¸ºlocalhost:8080/wxopenã€‚
